@@ -1,4 +1,4 @@
-# IMDB Movie Review Sentiment Analysis using Simple RNN
+#  IMDB Movie Review Sentiment Analysis using Simple RNN
 
 This project implements a **binary sentiment analysis system** using a **Simple Recurrent Neural Network (SimpleRNN)** trained on the **IMDB Movie Reviews dataset**.  
 It includes model training, evaluation, visualization of learning curves, and an interactive **Streamlit web application** for real-time sentiment prediction.
@@ -156,7 +156,7 @@ Python | AI & ML Enthusiast
 
 ---
 
-### ⭐ Acknowledgement
+## ⭐ Acknowledgement
 
 Thanks to open-source datasets and libraries that made this project possible.
 
