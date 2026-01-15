@@ -1,11 +1,11 @@
-#  IMDB Movie Review Sentiment Analysis using Simple RNN
+# ❒ IMDB Movie Review Sentiment Analysis using Simple RNN
 
 This project implements a **binary sentiment analysis system** using a **Simple Recurrent Neural Network (SimpleRNN)** trained on the **IMDB Movie Reviews dataset**.  
 It includes model training, evaluation, visualization of learning curves, and an interactive **Streamlit web application** for real-time sentiment prediction.
 
 ---
 
-## Project Overview
+## ▶   Project Overview
 
 Sentiment analysis is a fundamental task in Natural Language Processing (NLP).  
 This project demonstrates how sequential models can be applied to text data to classify movie reviews as **Positive** or **Negative**.
@@ -19,7 +19,7 @@ The implementation follows an end-to-end workflow:
 
 ---
 
-## Problem Statement
+## ▶ Problem Statement
 
 Build a deep learning model that predicts the sentiment of a movie review based on its textual content.
 
@@ -29,7 +29,7 @@ Build a deep learning model that predicts the sentiment of a movie review based 
 
 ---
 
-## Project Structure
+## ▶ Project Structure
 
 ```text
 IMDB-Simple-RNN/
@@ -56,7 +56,7 @@ IMDB-Simple-RNN/
     # Project documentation
 ```
 ---
-## Tech Stack
+## ▶ Tech Stack
 
 ### Programming Language
 - **Python 3**
@@ -82,7 +82,7 @@ IMDB-Simple-RNN/
 - **Git & GitHub**  
 
 ---
-## Clone and Deploy the Project
+## ❒ Clone and Deploy the Project
 
 - Step 1: Clone the Repository
 ```bash
@@ -110,7 +110,7 @@ streamlit run app.py
 
 ---
 
-## Dataset
+## ▶ Dataset
 
 - IMDB Movie Reviews Dataset (Keras built-in)
 - 50,000 movie reviews
@@ -120,7 +120,7 @@ streamlit run app.py
 
 ---
 
-## Dataset Limitations
+## ▣ Dataset Limitations
 
 - Vocabulary size restriction leads to out-of-vocabulary tokens
 - Integer encoding removes semantic meaning of rare words
@@ -129,7 +129,7 @@ streamlit run app.py
 
 ---
 
-## Model Limitations
+## ▣ Model Limitations
 
 - SimpleRNN suffers from vanishing gradient issues
 - Limited ability to capture long-term dependencies
@@ -139,7 +139,7 @@ streamlit run app.py
 
 ---
 
-## Future Improvements
+## ▣ Future Improvements
 
 - Replace SimpleRNN with LSTM to better retain long-term context
 - Improve handling of negation and sequential dependencies
@@ -148,7 +148,7 @@ streamlit run app.py
 
 ---
 
-## 👤 Author
+## © Made by
 
 **Raz**
 
@@ -156,7 +156,7 @@ Python | AI & ML Enthusiast
 
 ---
 
-## ⭐ Acknowledgement
+## ✉ Acknowledgement
 
 Thanks to open-source datasets and libraries that made this project possible.
 
