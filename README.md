@@ -91,7 +91,7 @@ cd imdb-sentiment-analysis-rnn
 ```
 - Step 2: Create Virtual Enviroment
 ```bash
-python -m venv venv
+python3.11 -m venv venv
 ```
 ```bash
 source venv/bin/activate        #linux/mac
